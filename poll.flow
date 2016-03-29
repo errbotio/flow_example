@@ -1,0 +1,9 @@
+[Core]
+Name = Err plugin as a demonstrator for flows.
+Module = poll_flows.py
+
+[Documentation]
+Description = implements a polling feature.
+
+[Python]
+Version = 2+
